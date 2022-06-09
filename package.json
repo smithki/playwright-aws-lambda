@@ -1,5 +1,5 @@
 {
-  "name": "playwright-aws-lambda",
+  "name": "@ikscodes/playwright-aws-lambda-node16",
   "version": "0.8.0",
   "description": "Support for running Microsoft's Playwrite on AWS Lambda and Google Cloud functions",
   "main": "./dist/src/",
